@@ -68,9 +68,7 @@
 		</header>
 		
 		<section class="banner">
-			<div class="banner-center">
-				<!--<img src="images/banner-center.png">-->
-			</div>
+			<div class="banner-center"></div>
 		</section>
 		
 		<section class="map-section">
@@ -81,7 +79,7 @@
 			</div>
 			
 			<div class="map-image">
-				<img src="/images/map.png">
+				<img src="/images/map.png" alt="map">
 			</div>
 		</section>
 		
@@ -133,7 +131,7 @@
 				<div class="team-member">
 					<div class="team-member-frame">
 						<div class="team-member-photo">
-							<img src="/images/photo-1.jpg">
+							<img src="/images/photo-1.jpg" alt="Josh Jansen">
 						</div>
 					</div>
 					<div class="team-member-name">Josh Jansen</div>
@@ -143,7 +141,7 @@
 				<div class="team-member">	
 					<div class="team-member-frame">
 						<div class="team-member-photo">
-							<img src="/images/photo-2.jpg">
+							<img src="/images/photo-2.jpg" alt="Blaz Robar">
 						</div>
 					</div>
 					<div class="team-member-name">Blaz Robar</div>
@@ -153,7 +151,7 @@
 				<div class="team-member">
 					<div class="team-member-frame">
 						<div class="team-member-photo">
-							<img src="/images/photo-3.jpg">
+							<img src="/images/photo-3.jpg" alt="James Brown">
 						</div>
 					</div>
 					<div class="team-member-name">James Brown</div>
@@ -163,47 +161,7 @@
 				<div class="team-member">
 					<div class="team-member-frame">
 						<div class="team-member-photo">
-							<img src="/images/photo-4.jpg">		
-						</div>
-					</div>
-					<div class="team-member-name">Skeletor</div>
-					<div class="team-member-profession">Administration</div>
-				</div>
-
-				<div class="team-member">
-					<div class="team-member-frame">
-						<div class="team-member-photo">
-							<img src="/images/photo-1.jpg">
-						</div>
-					</div>
-					<div class="team-member-name">Josh Jansen</div>
-					<div class="team-member-profession">Digital Producer</div>
-				</div>
-
-				<div class="team-member">	
-					<div class="team-member-frame">
-						<div class="team-member-photo">
-							<img src="/images/photo-2.jpg">
-						</div>
-					</div>
-					<div class="team-member-name">Blaz Robar</div>
-					<div class="team-member-profession">Designer</div>
-				</div>
-
-				<div class="team-member">
-					<div class="team-member-frame">
-						<div class="team-member-photo">
-							<img src="/images/photo-3.jpg">
-						</div>
-					</div>
-					<div class="team-member-name">James Brown</div>
-					<div class="team-member-profession">Developer</div>
-				</div>
-
-				<div class="team-member">
-					<div class="team-member-frame">
-						<div class="team-member-photo">
-							<img src="/images/photo-4.jpg">		
+							<img src="/images/photo-4.jpg" alt="Skeletor">		
 						</div>
 					</div>
 					<div class="team-member-name">Skeletor</div>
@@ -213,7 +171,7 @@
 				<div class="team-member">
 					<div class="team-member-frame">
 						<div class="team-member-photo">
-							<img src="/images/photo-1.jpg">
+							<img src="/images/photo-1.jpg" alt="Josh Jansen">
 						</div>
 					</div>
 					<div class="team-member-name">Josh Jansen</div>
@@ -223,7 +181,7 @@
 				<div class="team-member">	
 					<div class="team-member-frame">
 						<div class="team-member-photo">
-							<img src="/images/photo-2.jpg">
+							<img src="/images/photo-2.jpg" alt="Blaz Robar">
 						</div>
 					</div>
 					<div class="team-member-name">Blaz Robar</div>
@@ -233,7 +191,7 @@
 				<div class="team-member">
 					<div class="team-member-frame">
 						<div class="team-member-photo">
-							<img src="/images/photo-3.jpg">
+							<img src="/images/photo-3.jpg" alt="James Brown">
 						</div>
 					</div>
 					<div class="team-member-name">James Brown</div>
@@ -243,7 +201,7 @@
 				<div class="team-member">
 					<div class="team-member-frame">
 						<div class="team-member-photo">
-							<img src="/images/photo-4.jpg">		
+							<img src="/images/photo-4.jpg" alt="Skeletor">		
 						</div>
 					</div>
 					<div class="team-member-name">Skeletor</div>
@@ -253,7 +211,7 @@
 				<div class="team-member">
 					<div class="team-member-frame">
 						<div class="team-member-photo">
-							<img src="/images/photo-1.jpg">
+							<img src="/images/photo-1.jpg" alt="Josh Jansen">
 						</div>
 					</div>
 					<div class="team-member-name">Josh Jansen</div>
@@ -263,7 +221,7 @@
 				<div class="team-member">	
 					<div class="team-member-frame">
 						<div class="team-member-photo">
-							<img src="/images/photo-2.jpg">
+							<img src="/images/photo-2.jpg" alt="Blaz Robar">
 						</div>
 					</div>
 					<div class="team-member-name">Blaz Robar</div>
@@ -273,7 +231,7 @@
 				<div class="team-member">
 					<div class="team-member-frame">
 						<div class="team-member-photo">
-							<img src="/images/photo-3.jpg">
+							<img src="/images/photo-3.jpg" alt="James Brown">
 						</div>
 					</div>
 					<div class="team-member-name">James Brown</div>
@@ -283,7 +241,47 @@
 				<div class="team-member">
 					<div class="team-member-frame">
 						<div class="team-member-photo">
-							<img src="/images/photo-4.jpg">		
+							<img src="/images/photo-4.jpg" alt="Skeletor">		
+						</div>
+					</div>
+					<div class="team-member-name">Skeletor</div>
+					<div class="team-member-profession">Administration</div>
+				</div>
+				
+				<div class="team-member">
+					<div class="team-member-frame">
+						<div class="team-member-photo">
+							<img src="/images/photo-1.jpg" alt="Josh Jansen">
+						</div>
+					</div>
+					<div class="team-member-name">Josh Jansen</div>
+					<div class="team-member-profession">Digital Producer</div>
+				</div>
+
+				<div class="team-member">	
+					<div class="team-member-frame">
+						<div class="team-member-photo">
+							<img src="/images/photo-2.jpg" alt="Blaz Robar">
+						</div>
+					</div>
+					<div class="team-member-name">Blaz Robar</div>
+					<div class="team-member-profession">Designer</div>
+				</div>
+
+				<div class="team-member">
+					<div class="team-member-frame">
+						<div class="team-member-photo">
+							<img src="/images/photo-3.jpg" alt="James Brown">
+						</div>
+					</div>
+					<div class="team-member-name">James Brown</div>
+					<div class="team-member-profession">Developer</div>
+				</div>
+
+				<div class="team-member">
+					<div class="team-member-frame">
+						<div class="team-member-photo">
+							<img src="/images/photo-4.jpg" alt="Skeletor">		
 						</div>
 					</div>
 					<div class="team-member-name">Skeletor</div>
