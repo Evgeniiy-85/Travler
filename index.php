@@ -56,12 +56,12 @@
 				
 				<nav class="header-menu">
 					<ul>
-						<li name="1"><a href="#" title="Travel Guide">Travel Guide</a></li>
-						<li name="2"><a href="#" title="Services">Services</a></li>
-						<li name="3"><a href="#" title="About">About</a></li>
-						<li name="4"><a href="#" title="The Tour">The Tour</a></li>
-						<li name="5"><a href="#" title="How to">How to</a></li>
-						<li name="6"><a href="#" title="Contact">Contact</a></li>
+						<li><a href="#" title="Travel Guide">Travel Guide</a></li>
+						<li><a href="#" title="Services">Services</a></li>
+						<li><a href="#" title="About">About</a></li>
+						<li><a href="#" title="The Tour">The Tour</a></li>
+						<li><a href="#" title="How to">How to</a></li>
+						<li><a href="#" title="Contact">Contact</a></li>
 					</ul>
 				</nav>
 			</div>
