@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'PT-Sans';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/PT-Sans.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'PT-Sans-Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/PT-Sans-Italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'PT-Sans-Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/PT-Sans-Bold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Nexa-Light';
+    src: url('../fonts/Nexa-Light.eot');
+    src: url('../fonts/Nexa-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Nexa-Light.woff') format('woff'),
+        url('../fonts/Nexa-Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+	font-family: 'Nexa-Black';
+	src: url('../fonts/NexaBlack.eot');
+	src: url('../fonts/NexaBlack.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/NexaBlack.woff') format('woff'),
+	url('../fonts/NexaBlack.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+    font-family: 'Nexa-Book';
+    src: url('../fonts/Nexa-Book.eot');
+    src: url('../fonts/Nexa-Book.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Nexa-Book.woff') format('woff'),
+        url('../fonts/Nexa-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Nexa-Bold';
+    src: url('../fonts/Nexa-Bold.eot');
+    src: url('../fonts/Nexa-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Nexa-Bold.woff') format('woff'),
+        url('../fonts/Nexa-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+	font-family: 'Myriad-Pro';
+	font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/Myriad-Pro.ttf') format('truetype');
+}
