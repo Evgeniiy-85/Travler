@@ -32,7 +32,7 @@
 				</a>
 				<div class="cta">
 					<div class="quicklinks">
-						<a href="#map" title="map"><span>Quicklinks</span></a>
+						<a class="scroll-to" href="#map" title="map"><span>Quicklinks</span></a>
 					</div>
 
 					<div class="select-block">
@@ -71,7 +71,7 @@
 			<div class="banner-center"></div>
 		</section>
 		
-		<section class="map-section">
+		<section class="map-section" id="map">
 			<h1>Anywhere, anytime, where here to help.</h1>
 			
 			<div class="map-sub-title">

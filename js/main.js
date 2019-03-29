@@ -1,4 +1,14 @@
 $(function() {
+	$(".scroll-to").click(function() {
+		var el_to_scroll_id = $(this).attr('href');
+		
+		if (el_to_scroll_id && $(el_to_scroll_id).length > 0) {
+			$([document.documentElement, document.body]).animate({
+				scrollTop: $(el_to_scroll_id).offset().top
+			}, 2000);
+		}
+	});
+	
 	$('.toggle-mobile-menu').click(function() {
 		$('.header-menu').slideToggle();
 	});
