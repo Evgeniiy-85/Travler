@@ -105,7 +105,7 @@ header {
 	display: block;
 	width: 11px;
 	height: 17px;
-	background: url('../../images/quillinks.png') no-repeat;
+	background: url('../images/quillinks.png') no-repeat;
 	position: absolute;
 	right: 16px;
 	top: 4px;
@@ -124,7 +124,7 @@ header {
 	position: absolute;
 	content: "";
 	display: block;
-	background-image: url('../../images/arrows.png');
+	background-image: url('../images/arrows.png');
 	background-repeat: no-repeat;
 	width: 9px;
 	height: 14px;
@@ -175,7 +175,7 @@ header {
 .search-block:after {
 	content: "";
 	display: block;
-	background-image: url(/images/clock.png);
+	background-image: url(../images/clock.png);
 	background-repeat: no-repeat;
 	width: 23px;
 	height: 23px;
@@ -246,19 +246,19 @@ header {
 	position: absolute;
 	width: 27px;
 	height: 27px;
-	background: url('../../images/travler-guide.png') center center no-repeat;
+	background: url('../images/travler-guide.png') center center no-repeat;
 	top: 18px;
 	left: 50%;
     transform: translateX(-50%);
 }
 .header-menu ul li:nth-child(2) a:after {
-	background-image: url('../../images/services.png');
+	background-image: url('../images/services.png');
 }
 .header-menu ul li:nth-child(3) a:after, .header-menu ul li:nth-child(6) a:after {
-	background-image: url('../../images/about.png');
+	background-image: url('../images/about.png');
 }
 .header-menu ul li:nth-child(4) a:after {
-	background-image: url('../../images/the-tour.png');
+	background-image: url('../images/the-tour.png');
 }
 /*HEADER END*/
 
@@ -365,7 +365,7 @@ header {
 .team-member-photo:after {
 	position: absolute;
 	content: "";
-	background: url('../../images/twitter-2.png') #8f33c4 center center no-repeat;
+	background: url('../images/twitter-2.png') #8f33c4 center center no-repeat;
 	width: 47px;
 	height: 41px;
 	right: 0;
@@ -405,7 +405,7 @@ header {
 .article-columns .article:before {
 	position: absolute;
 	content: "";
-	background-image: url('../../images/add.png');
+	background-image: url('../images/add.png');
 	width: 30px;
 	height: 30px;
 	top: 0;
@@ -500,16 +500,16 @@ footer .logotype-name, footer .logotype-description, footer a {
 	background-repeat: no-repeat;
 }
 .logo-twitter {
-	background-image: url('../../images/twitter.png');
+	background-image: url('../images/twitter.png');
 }
 .logo-facebook {
-	background-image: url('../../images/facebook.png');
+	background-image: url('../images/facebook.png');
 }
 .logo-rss {
-	background-image: url('../../images/rss.png');
+	background-image: url('../images/rss.png');
 }
 .logo-mail {
-	background-image: url('../../images/mail.png');
+	background-image: url('../images/mail.png');
 }
 /*FOOTER END*/
 

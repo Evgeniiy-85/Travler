@@ -5,7 +5,7 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		
-		<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+		<link rel="icon" type="image/x-icon" href="/style/images/favicon.ico">
 		
 		<link href="/style/css/style.css" rel="stylesheet">
 		
@@ -19,7 +19,7 @@
 			<div class="container">
 				<a class="logotype" href="/" title="logotype">
 					<div class="logotype-image">
-						<img src="/images/logo.png" alt="logo">
+						<img src="/style/images/logo.png" alt="logo">
 					</div>
 					<div class="logotype-text">
 						<div class="logotype-name">
@@ -360,7 +360,7 @@
 				<div class="footer-top">
 					<a class="logotype" href="#" title="logotype">
 						<div class="logotype-image">
-							<img src="/images/logo-white.png" alt="logo">
+							<img src="/style/images/logo-white.png" alt="logo">
 						</div>
 						<div class="logotype-text">
 							<div class="logotype-name">
